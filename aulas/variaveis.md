@@ -58,6 +58,8 @@ print(nome)
 
 * Quando criei a variável *nome*, solicitei ao computador que reservasse um espaço na memória para armazenar um valor. Depois de armazenar esse valor, só preciso utilizar o rótulo para chamá-lo.
 
+* Quando coloquei o nome da variável eu declarei a variável, quando eu coloquei um valor nela eu atribui um valor.
+
 * Como o próprio nome sugere, posso alterar o valor de uma variável. Por exemplo:
 
 ```python 
@@ -189,6 +191,27 @@ print(nome)
 
 
         print(media)
+
+    ```
+
+    * Diferente de outras linguagens, Python não precisa da delcaração do tipo da variável no momento da declaração. Exemplo em java:
+
+    ```java 
+        class teste {
+
+        public static void main(String[] args) {
+            
+            double nota = 10.0;
+            int idade = 10;
+            String nome = "Pedro";
+
+
+            System.out.println(nota);
+            System.out.println(idade);
+            System.out.println(nome);
+
+        }
+    }
 
     ```
 
