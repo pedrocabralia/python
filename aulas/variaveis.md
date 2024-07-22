@@ -161,7 +161,7 @@ print(nome)
 
     * O tipo númerico é um tipo de dado que se divide basicamente em números inteiros e números reais. Exemplo em Python:
 
-    ```python 
+    ```python  
         # Tipo inteiro
         idade = 10
 
