@@ -87,6 +87,7 @@ print(nome)
 print(nome)
 print(nome)
 ```
+![](imagens/Design%20sem%20nome.png)
 
 ## Nomeando e usando variáveis 
 
@@ -191,6 +192,6 @@ print(nome)
 
     ```
 
-
+# Atividade de fixação 
 
 
