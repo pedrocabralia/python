@@ -89,7 +89,19 @@ print(nome)
 print(nome)
 print(nome)
 ```
+* Também posso declarar valores numéricos em uma variável. Ex.:
+
+```python 
+nome = "Pedro Vinicios Sena de Matos"
+
+x = 10
+print(x)
+
+```
+
 ![](imagens/Design%20sem%20nome.png)
+
+
 
 ## Nomeando e usando variáveis 
 
@@ -217,4 +229,9 @@ print(nome)
 
 # Atividade de fixação 
 
+1. Crie um algoritmo que imprima a soma entre 28 e 43.
+2. Crie um algoritmo que imprima a soma entre 100 e 50.
+3. Crie um algoritmo que armazene o seu nome em uma variável e em seguida imprima na tela.
+4. Crie um algoritmo que calcule a média de duas notas de um aluno.
+5. Crie um algoritmo que calcule e imprima a subtração entre 100 e 75.
 

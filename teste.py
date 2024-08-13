@@ -1,4 +1,3 @@
-n1 = input()
-n2 = input()
+x = 10
 
-print(n1 + n2)
+print(10)
