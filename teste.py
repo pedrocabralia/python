@@ -1,11 +1,7 @@
-valores = [25, 40, 35, 10, 50]
+numeros = [5, 2, 9, 1, 7]
 
-menor = valores[0]
-for i in range(len(valores)):
-    
-    if(valores[i] < menor):
-        menor = valores[i]
-    else:
-        print("é maior")
-print("o menor número é:",menor)
-    
+maior = max(numeros)
+menor = min(numeros)
+
+print("Maior número:",maior)  # Saída: Maior número: 9
+print("Menor número: ",menor)  # Saída: Menor número: 1
