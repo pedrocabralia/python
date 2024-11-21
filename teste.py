@@ -1,6 +1,11 @@
-n1 = int(input())
-n2 = int(input())
+valores = [25, 40, 35, 10, 50]
 
-n3 = n1 + n2
-nome  = "pedro"
-print("A soma de ", n1, "+",n2,"é ",n3,nome)
+menor = valores[0]
+for i in range(len(valores)):
+    
+    if(valores[i] < menor):
+        menor = valores[i]
+    else:
+        print("é maior")
+print("o menor número é:",menor)
+    
