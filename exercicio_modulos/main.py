@@ -1,0 +1,4 @@
+import cadastro
+
+
+cadastro.cadastro()

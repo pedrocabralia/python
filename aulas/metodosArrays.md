@@ -109,6 +109,61 @@ print("Menor número: ",menor)  # Saída: Menor número: 1
 ```
 
 
+## Exercícios:
+
+---
+
+### 1. **Somando valores de uma lista `sum()`**
+Crie uma lista com os preços de 5 produtos e use a função `sum()` para calcular o total gasto.
+
+---
+
+### 2. **Retornando o tamanho da lista `len()`**
+Crie uma lista de nomes de frutas e use `len()` para contar quantas frutas estão na lista.
+
+---
+
+### 3. **Contando quantas vezes um elemento aparece na lista `count()`**
+Dada uma lista de notas, use `count()` para contar quantos alunos tiraram a nota 10.
+
+---
+
+### 4. **Adicionando um elemento no final na lista `append()`**
+Crie uma lista com nomes de filmes e adicione um novo filme no final da lista.
+
+---
+
+### 5. **Adicionando um elemento em uma posição específica na lista `insert()`**
+Crie uma lista de ingredientes e insira um novo ingrediente no início da lista.
+
+---
+
+### 6. **Remover o primeiro elemento igual ao valor especificado `remove()`**
+Crie uma lista de cores e remova a cor "azul".
+
+---
+
+### 7. **Remover e retornar o elemento de uma posição específica `pop()`**
+Crie uma lista de animais e remova o segundo animal da lista.
+
+---
+
+### 8. **Ordenando os elementos da lista `sort()`**
+Crie uma lista de números inteiros e ordene-os em ordem crescente.
+
+---
+
+### 9. **Invertendo a ordem dos elementos na lista `reverse()`**
+Crie uma lista de números e inverta a ordem dos elementos.
+
+---
+
+### 10. **Pegando o maior e o menor número `max()` e `min()`**
+Crie uma lista de idades e descubra a maior e a menor idade da turma.
+
+---
+
+
 
 
 
